@@ -45,3 +45,15 @@ https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g
 Azure REST API Browser
 
 https://docs.microsoft.com/en-us/rest/api/?view=Azure
+
+
+Hands On Labs for AZ-203
+Microsoft has a Github page that contains 12 labs for AZ-203:
+
+https://microsoftlearning.github.io/AZ-203-DevelopingSolutionsforMicrosoftAzure/
+
+This gives you step-by-step instructions for creating resources in the Azure Portal, and even deploying sample code into web apps.
+
+Try this, and hopefully this will enhance your skill level with Azure Development.
+
+Since this is a Microsoft supported GitHub repository, I can't help debug any issues. But it should help you learn the topic.
